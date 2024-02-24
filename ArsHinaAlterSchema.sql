@@ -35,4 +35,7 @@ alter schema dbo transfer[arsshina].[Vacancies]
 alter schema dbo transfer[arsshina].[AboutCompanies]
 alter schema dbo transfer[arsshina].[VacanciesResponses]
 alter schema dbo transfer[arsshina].[PriceCalcs]
+alter schema dbo transfer[arsshina].[CountUserOfDay]
+alter schema dbo transfer[arsshina].[TiresReportAllDone]
+alter schema dbo transfer[arsshina].[TiresReportsAllProc]
 
