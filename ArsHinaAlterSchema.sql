@@ -34,5 +34,5 @@ alter schema dbo transfer[arsshina].[Users]
 alter schema dbo transfer[arsshina].[Vacancies]
 alter schema dbo transfer[arsshina].[AboutCompanies]
 alter schema dbo transfer[arsshina].[VacanciesResponses]
-
+alter schema dbo transfer[arsshina].[PriceCalcs]
 
