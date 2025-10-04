@@ -1,3 +1,4 @@
+use arsshinadb
 alter schema dbo transfer [arsshina].[__EFMigrationsHistory]
 alter schema dbo transfer[arsshina].[Adresses]
 alter schema dbo transfer[arsshina].[Advantages]
